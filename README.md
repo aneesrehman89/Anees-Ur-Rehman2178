@@ -4,7 +4,6 @@
 
 
 💼 Current position: student
-
 📍 Located in Johar town, Lahore, Pakistan
 
 🎓 Education:
