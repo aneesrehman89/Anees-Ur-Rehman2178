@@ -2,8 +2,11 @@
 
 💻 A Little Bit About Me and My Interests
 
+
 💼 Current position: student
+
 📍 Located in Johar town, Lahore, Pakistan
+
 🎓 Education:
 Self-Taught Developer and Designer
 Bachelor's in BS Information Technology
