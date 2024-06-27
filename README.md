@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, Here is Anees-Ur-Rehman 👋
 
-<!--
-**Anees-Ur-Rehman2178/Anees-Ur-Rehman2178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A Little Bit About Me and My Interests
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 Name: Anees Ur Rehman
+📍 Located in Johar town, Lahore, Pakistan
+💼 Current position: student
+🎓 Education:
+Self-Taught Developer and Designer
+Bachelor's in BS Information Technology
+Tech Stack:
+🌐 Front-End: HTML, CSS, JavaScript, Bootstrap, React
+🔙 Back-End: Node.js, Express
+💾 Database: firebase, MongoDB
+🛠️ DevOps: Docker, Kubernetes, CI/CD, AWS, Azure
+🔧 Others: Git, RESTful APIs, GraphQL, Agile/Scrum
+Feel free to explore my repositories and reach out for collaborations or discussions on innovative projects!
