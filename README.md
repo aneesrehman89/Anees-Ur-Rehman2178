@@ -7,8 +7,8 @@
 📍 Located in Johar town, Lahore, Pakistan
 
 🎓 Education:  
-Self-Taught Developer and Designer  
-Bachelor's in BS Information Technology
+* Self-Taught Developer and Designer  
+* Bachelor's in BS Information Technology
 
 Tech Stack:  
 🌐 Front-End: HTML, CSS, JavaScript, Bootstrap, React  
