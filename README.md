@@ -3,7 +3,7 @@
 💻 A Little Bit About Me and My Interests
 
 
-💼 Current position: student
+💼 Current position: student 
 📍 Located in Johar town, Lahore, Pakistan
 
 🎓 Education:
